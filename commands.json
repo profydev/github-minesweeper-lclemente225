@@ -10,6 +10,9 @@
     "UNFLAG B2",
     "UNFLAG C2",
     "UNFLAG B1",
-    "CLEAR B7"
+    "CLEAR B7",
+    "FLAG D4",
+    "FLAG D5",
+    "CLEAR C8"
   ]
 }
