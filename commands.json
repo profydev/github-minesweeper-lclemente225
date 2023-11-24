@@ -1,3 +1,6 @@
 {
-  "commands": []
+  "commands": [
+    "FLAG B2",
+    "FLAG C2"
+  ]
 }
